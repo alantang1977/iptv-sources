@@ -61767,6 +61767,9 @@
 	<programme channel="纯享4K" start="20240910101200 +0800" stop="20240910102700 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 利菲河上的游泳比赛</title>
 	</programme>
+	<programme channel="纯享4K" start="20240910102700 +0800" stop="20240910105400 +0800">
+		<title lang="zh">好吃客4K 长沙</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74919,6 +74922,9 @@
 	<programme channel="newtv精品纪录" start="20240910095200 +0800" stop="20240910102000 +0800">
 		<title lang="zh">十八洞——苗鼓敲出幸福歌（20230102）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240910102000 +0800" stop="20240910104800 +0800">
+		<title lang="zh">果洛藏贡麻——山海相连 牧歌远扬（20230103）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75072,6 +75078,9 @@
 	<programme channel="newtv热播精选" start="20240910093400 +0800" stop="20240910102000 +0800">
 		<title lang="zh">23_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240910102000 +0800" stop="20240910110400 +0800">
+		<title lang="zh">24_星汉灿烂</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75170,6 +75179,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240910095100 +0800" stop="20240910103000 +0800">
 		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240910103000 +0800" stop="20240910105900 +0800">
+		<title lang="zh">43_多彩庄家院第二季</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75381,6 +75393,9 @@
 	<programme channel="newtv精品综合" start="20240910093000 +0800" stop="20240910102500 +0800">
 		<title lang="zh">27_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240910102500 +0800" stop="20240910111100 +0800">
+		<title lang="zh">28_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -75518,6 +75533,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240910093200 +0800" stop="20240910102900 +0800">
 		<title lang="zh">30_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240910102900 +0800" stop="20240910111400 +0800">
+		<title lang="zh">31_雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
